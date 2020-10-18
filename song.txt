@@ -14,3 +14,4 @@ foe resolving
 for feature resolving
 
 for taging
+line for a stash
